@@ -8,6 +8,7 @@
     "zestawienia_sprzedaz_zakup_osobne_pliki": true,
     "excel_wykres_i_tabela": true,
     "ocr_wzmocniony": true,
-    "podglad_tabelaryczny_z_suwakiem": true
+    "podglad_tabelaryczny_z_suwakiem": true,
+    "auto_update_on_restart": true
   }
 }
