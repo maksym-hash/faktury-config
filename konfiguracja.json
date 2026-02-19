@@ -1,5 +1,13 @@
 {
+  "code_version": "1.1.0",
+  "code_update_url": "https://twoja-domena.pl/faktury/faktury_app_1_1_0.zip",
   "openai_api_key": "",
-  "code_version": "1.0.0",
-  "code_update_url": "https://twoj-serwer.pl/faktury/update_1_0_0.zip"
+  "openai_base_url": "",
+  "notes": {
+    "arkusz4_podsumowania_waluty": true,
+    "zestawienia_sprzedaz_zakup_osobne_pliki": true,
+    "excel_wykres_i_tabela": true,
+    "ocr_wzmocniony": true,
+    "podglad_tabelaryczny_z_suwakiem": true
+  }
 }
